@@ -1,11 +1,7 @@
 import math
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        n = len(piles)
-        maximum = float("-inf")
-
-        for i in range(n):
-            maximum = max(maximum, piles[i])
+        maximum = max(piles)
         
         start = 1
         end = maximum
@@ -15,9 +11,8 @@ class Solution:
             mid = (start + end) // 2
             total_time = 0
 
-            for i in range(n):
-                value = math.ceil(piles[i] / mid)
-                total_time += value
+            for pile in piles:
+                total_time += (pile + mid - 1) // mid
 
                 if total_time > h:
                     break
