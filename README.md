@@ -39,6 +39,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushdixit23/DSA/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/ayushdixit23/DSA/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ayushdixit23/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/ayushdixit23/DSA/tree/master/0498-diagonal-traverse) |
@@ -90,6 +91,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdixit23/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdixit23/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -147,6 +149,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ayushdixit23/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushdixit23/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ayushdixit23/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit23/DSA/tree/master/0875-koko-eating-bananas) |
@@ -180,6 +183,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0053-maximum-subarray](https://github.com/ayushdixit23/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushdixit23/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayushdixit23/DSA/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -224,6 +228,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 ## Quickselect
 |  |
 | ------- |
