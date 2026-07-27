@@ -45,6 +45,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0498-diagonal-traverse](https://github.com/ayushdixit23/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdixit23/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ayushdixit23/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayushdixit23/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ayushdixit23/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/ayushdixit23/DSA/tree/master/0867-transpose-matrix) |
@@ -236,6 +237,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ayushdixit23/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Interactive
 |  |
