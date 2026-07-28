@@ -68,6 +68,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1929-concatenation-of-array](https://github.com/ayushdixit23/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ayushdixit23/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushdixit23/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushdixit23/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0454-4sum-ii](https://github.com/ayushdixit23/DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdixit23/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushdixit23/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
@@ -241,6 +243,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0643-maximum-average-subarray-i](https://github.com/ayushdixit23/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushdixit23/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushdixit23/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Interactive
 |  |
 | ------- |
