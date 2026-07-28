@@ -60,6 +60,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit23/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayushdixit23/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdixit23/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1652-defuse-the-bomb](https://github.com/ayushdixit23/DSA/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushdixit23/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit23/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayushdixit23/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -243,6 +244,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0643-maximum-average-subarray-i](https://github.com/ayushdixit23/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushdixit23/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/ayushdixit23/DSA/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushdixit23/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Interactive
 |  |
