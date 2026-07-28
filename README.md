@@ -54,6 +54,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushdixit23/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushdixit23/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushdixit23/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdixit23/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdixit23/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushdixit23/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -239,6 +240,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdixit23/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushdixit23/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Interactive
 |  |
 | ------- |
