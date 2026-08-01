@@ -1,0 +1,40 @@
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        n = len(s)
+        j = n - 1
+
+        while j >= 0 and s[j] == " ":
+            j-=1
+
+        start = j
+
+        j = 0
+
+        while j <= n - 1 and s[j] == " ":
+            j += 1
+        
+        end = j
+
+        if start < end:
+            return ""
+
+        string = ""
+        word = ""
+
+        for i in range(start, end - 1, -1):
+            if s[i] != " ":
+                word += s[i]
+            else:
+                if s[i] == s[i+1]:
+                    continue
+                    
+                for k in range(len(word)-1,-1,-1):
+                    string += word[k]
+                
+                string += " "
+                word = ""
+        
+        for k in range(len(word)-1,-1,-1):
+                    string += word[k]
+
+        return string
