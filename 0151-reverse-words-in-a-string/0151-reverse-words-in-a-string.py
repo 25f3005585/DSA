@@ -18,23 +18,22 @@ class Solution:
         if start < end:
             return ""
 
-        string = ""
-        word = ""
+        ans = []
+        word = []
 
         for i in range(start, end - 1, -1):
             if s[i] != " ":
-                word += s[i]
+                word.append(s[i])
             else:
-                if s[i] == s[i+1]:
+                if s[i] == s[i + 1]:
                     continue
-                    
-                for k in range(len(word)-1,-1,-1):
-                    string += word[k]
-                
-                string += " "
-                word = ""
-        
-        for k in range(len(word)-1,-1,-1):
-                    string += word[k]
 
-        return string
+                while word:
+                    ans.append(word.pop())
+
+                ans.append(" ")
+
+        while word:
+            ans.append(word.pop())
+
+        return "".join(ans)
