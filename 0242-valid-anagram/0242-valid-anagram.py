@@ -1,40 +1,24 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_length = len(s)
-        t_length = len(t)
+        arr = [0] * 26
 
-        if s_length != t_length:
+        if len(s) != len(t):
             return False
 
-        hash_set = set()
-        hash_map_s = {}
-        hash_map_t = {}
+        n = len(s)
 
-        for i in range(s_length):
-            element = s[i]
-            if element in hash_map_s:
-                hash_map_s[element]+=1
-            else:
-                hash_map_s[element] =1
-            
-            hash_set.add(element)
-        
-        for i in range(t_length):
-            element = t[i]
-            if element in hash_map_t:
-                hash_map_t[element]+=1
-            else:
-                hash_map_t[element] =1
-            
-            hash_set.add(element)
+        for i in range(n):
+            ch = s[i]
+            index = ord(ch) - 97
+            arr[index] += 1
 
-        for element in hash_set:
-            if element not in hash_map_s:
-                return False
-            if element not in hash_map_t:
-                return False
-            
-            if hash_map_t[element] != hash_map_s[element]:
+        for i in range(n):
+            ch = t[i]
+            index = ord(ch) - 97
+            arr[index] -= 1
+
+        for i in range(26):
+            if arr[i] != 0:
                 return False
         
         return True
