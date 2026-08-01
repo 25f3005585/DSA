@@ -201,6 +201,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushdixit23/DSA/tree/master/0242-valid-anagram) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/ayushdixit23/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
