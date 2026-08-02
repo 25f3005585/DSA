@@ -16,7 +16,7 @@ class Solution:
             if elem == "":
                 return ""
 
-            result = ""
+            result = []
 
             ans_len = len(ans)
             elem_len = len(elem)
@@ -26,13 +26,13 @@ class Solution:
 
             while j < elem_len and k < ans_len:
                 if elem[j] == ans[k]:
-                    result += elem[j]
+                    result.append(elem[j])
                     j += 1
                     k += 1
                 else:
-                    ans = result
+                    ans = "".join(result)
                     break
             
-            ans = result
+            ans = "".join(result)
 
         return ans
