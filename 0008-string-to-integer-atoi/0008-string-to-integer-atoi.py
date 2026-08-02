@@ -1,19 +1,17 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        n = len(s)
-
-        left_range = -2 ** 31
-        right_range = (2 ** 31) - 1
-        
+        n = len(s)        
         i = 0
 
         while i < n and s[i] == " ":
             i+=1
 
-        is_negative = False
-
         if i > n - 1:
             return 0
+
+        is_negative = False
+        left_range = -2 ** 31
+        right_range = (2 ** 31) - 1
         
         if s[i] == "-":
             is_negative = True
