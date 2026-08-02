@@ -208,6 +208,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0205-isomorphic-strings](https://github.com/ayushdixit23/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushdixit23/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/ayushdixit23/DSA/tree/master/0796-rotate-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ayushdixit23/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Heap (Priority Queue)
 |  |
@@ -273,4 +274,8 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ayushdixit23/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
