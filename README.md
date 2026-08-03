@@ -19,6 +19,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0035-search-insert-position](https://github.com/ayushdixit23/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ayushdixit23/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ayushdixit23/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushdixit23/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayushdixit23/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushdixit23/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -80,6 +81,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0001-two-sum](https://github.com/ayushdixit23/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ayushdixit23/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ayushdixit23/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ayushdixit23/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayushdixit23/DSA/tree/master/0205-isomorphic-strings) |
@@ -133,6 +135,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0015-3sum](https://github.com/ayushdixit23/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushdixit23/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushdixit23/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ayushdixit23/DSA/tree/master/0164-maximum-gap) |
@@ -213,6 +216,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0008-string-to-integer-atoi](https://github.com/ayushdixit23/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushdixit23/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayushdixit23/DSA/tree/master/0205-isomorphic-strings) |
