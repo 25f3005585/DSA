@@ -2,11 +2,11 @@ class Solution:
     def get_encoded_string(self,string):
         hash_map = {}
 
-        for i in range(len(string)):
-            if string[i] in hash_map:
-                hash_map[string[i]] += 1
+        for ch in string:
+            if ch in hash_map:
+                hash_map[ch] += 1
             else:
-                hash_map[string[i]] = 1
+                hash_map[ch] = 1
         
         return "".join(ch + str(hash_map[ch]) for ch in sorted(hash_map))
 
@@ -14,8 +14,7 @@ class Solution:
         n = len(strs)
         if n == 1:
             return [[strs[0]]]
-
-        answer = []
+            
         hash_map = {}
 
         for i in range(n):
@@ -27,7 +26,4 @@ class Solution:
             else:
                 hash_map[encoded_string] = [string]
         
-        for value in hash_map.values():
-            answer.append(value)
-
-        return answer
+        return list(hash_map.values())
