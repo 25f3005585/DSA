@@ -98,6 +98,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ayushdixit23/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ayushdixit23/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ayushdixit23/DSA/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/ayushdixit23/DSA/tree/master/0867-transpose-matrix) |
@@ -152,6 +153,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ayushdixit23/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushdixit23/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ayushdixit23/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ayushdixit23/DSA/tree/master/0189-rotate-array) |
@@ -221,6 +223,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0008-string-to-integer-atoi](https://github.com/ayushdixit23/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushdixit23/DSA/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/ayushdixit23/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0151-reverse-words-in-a-string) |
