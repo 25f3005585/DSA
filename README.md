@@ -87,6 +87,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0242-valid-anagram](https://github.com/ayushdixit23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/ayushdixit23/DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdixit23/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -140,6 +141,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0242-valid-anagram](https://github.com/ayushdixit23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -196,6 +198,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0169-majority-element](https://github.com/ayushdixit23/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,11 +217,13 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0205-isomorphic-strings](https://github.com/ayushdixit23/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushdixit23/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ayushdixit23/DSA/tree/master/0796-rotate-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ayushdixit23/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -228,6 +233,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ayushdixit23/DSA/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
