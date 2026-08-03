@@ -117,6 +117,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushdixit23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ayushdixit23/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushdixit23/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -206,6 +207,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushdixit23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ayushdixit23/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushdixit23/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayushdixit23/DSA/tree/master/0152-maximum-product-subarray) |
@@ -213,6 +215,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushdixit23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ayushdixit23/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushdixit23/DSA/tree/master/0014-longest-common-prefix) |
@@ -306,4 +309,8 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushdixit23/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
