@@ -104,6 +104,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0043-multiply-strings](https://github.com/ayushdixit23/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ayushdixit23/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ayushdixit23/DSA/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ayushdixit23/DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ayushdixit23/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushdixit23/DSA/tree/master/1929-concatenation-of-array) |
@@ -138,6 +139,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushdixit23/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayushdixit23/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ayushdixit23/DSA/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/ayushdixit23/DSA/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushdixit23/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -245,6 +247,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ayushdixit23/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0796-rotate-string](https://github.com/ayushdixit23/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/ayushdixit23/DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushdixit23/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -329,6 +332,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
 |  |
