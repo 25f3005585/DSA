@@ -1,39 +1,22 @@
 class Solution:
-    def isPalindrome(self,left, right, s):
+    def isPalindrome(self, s, left, right):
         while left < right:
-            if s[left] == s[right]:
-                left+=1
-                right-=1
-            else:
-                return [False,left, right]
-        
-        return [True,left,right]
+            if s[left] != s[right]:
+                return False
+            left += 1
+            right -= 1
+        return True
 
     def validPalindrome(self, s: str) -> bool:
-        n = len(s)
+        left, right = 0, len(s) - 1
 
-        if n <= 2:
-            return True
-        
-        i = 0
-        j = n - 1
+        while left < right:
+            if s[left] != s[right]:
+                return (
+                    self.isPalindrome(s, left + 1, right) or
+                    self.isPalindrome(s, left, right - 1)
+                )
+            left += 1
+            right -= 1
 
-        is_palindrome,left,right = self.isPalindrome(i,j,s)
-        if is_palindrome:
-            return True
-        else:
-            i = left + 1
-            j = right
-            is_palindrome,_,_ = self.isPalindrome(i, j , s)
-
-            if is_palindrome:
-                return True
-
-            i = left
-            j = right -1
-
-            is_palindrome,_,_ = self.isPalindrome(i, j , s)
-            if is_palindrome:
-                return True
-            
-            return False
+        return True
