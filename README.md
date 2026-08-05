@@ -66,6 +66,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1539-kth-missing-positive-number](https://github.com/ayushdixit23/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdixit23/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/ayushdixit23/DSA/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/ayushdixit23/DSA/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushdixit23/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ayushdixit23/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayushdixit23/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -103,6 +104,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0567-permutation-in-string](https://github.com/ayushdixit23/DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushdixit23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/ayushdixit23/DSA/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushdixit23/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ayushdixit23/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayushdixit23/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -342,6 +344,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushdixit23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdixit23/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/ayushdixit23/DSA/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/ayushdixit23/DSA/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushdixit23/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayushdixit23/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushdixit23/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
