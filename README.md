@@ -8,6 +8,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushdixit23/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ayushdixit23/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayushdixit23/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayushdixit23/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushdixit23/DSA/tree/master/0018-4sum) |
@@ -138,6 +139,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushdixit23/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ayushdixit23/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushdixit23/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushdixit23/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -322,6 +324,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushdixit23/DSA/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
