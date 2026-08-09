@@ -411,4 +411,12 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushdixit23/DSA/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
