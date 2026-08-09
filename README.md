@@ -167,6 +167,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/ayushdixit23/DSA/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushdixit23/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushdixit23/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -416,6 +417,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushdixit23/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushdixit23/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
