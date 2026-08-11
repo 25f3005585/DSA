@@ -426,12 +426,14 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0142-linked-list-cycle-ii](https://github.com/ayushdixit23/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdixit23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushdixit23/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
