@@ -163,6 +163,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdixit23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit23/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushdixit23/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayushdixit23/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushdixit23/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ayushdixit23/DSA/tree/master/0392-is-subsequence) |
@@ -396,6 +397,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
@@ -427,6 +429,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdixit23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushdixit23/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -434,6 +437,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
