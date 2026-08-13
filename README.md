@@ -197,6 +197,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushdixit23/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ayushdixit23/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushdixit23/DSA/tree/master/0048-rotate-image) |
@@ -426,6 +427,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushdixit23/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushdixit23/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushdixit23/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ayushdixit23/DSA/tree/master/0061-rotate-list) |
@@ -442,6 +444,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushdixit23/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushdixit23/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
