@@ -205,6 +205,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0189-rotate-array](https://github.com/ayushdixit23/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ayushdixit23/DSA/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/ayushdixit23/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushdixit23/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushdixit23/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -402,6 +403,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ayushdixit23/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
@@ -439,6 +441,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0206-reverse-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ayushdixit23/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushdixit23/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
