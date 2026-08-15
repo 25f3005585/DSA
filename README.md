@@ -162,6 +162,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0125-valid-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushdixit23/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdixit23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdixit23/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -187,6 +188,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushdixit23/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/ayushdixit23/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ayushdixit23/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushdixit23/DSA/tree/master/0217-contains-duplicate) |
@@ -247,6 +249,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushdixit23/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushdixit23/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit23/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
@@ -315,6 +318,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -439,6 +443,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0086-partition-list](https://github.com/ayushdixit23/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushdixit23/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdixit23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayushdixit23/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0206-reverse-linked-list) |
