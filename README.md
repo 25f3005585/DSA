@@ -157,6 +157,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0031-next-permutation](https://github.com/ayushdixit23/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ayushdixit23/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ayushdixit23/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/ayushdixit23/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushdixit23/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -435,6 +436,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0024-swap-nodes-in-pairs](https://github.com/ayushdixit23/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ayushdixit23/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushdixit23/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/ayushdixit23/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushdixit23/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdixit23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
