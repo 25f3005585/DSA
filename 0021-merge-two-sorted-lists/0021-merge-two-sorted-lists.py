@@ -23,16 +23,10 @@ class Solution:
                 curr = curr2
                 curr2 = next
         
-        while curr1:
-            next = curr1.next
+        if curr1:
             curr.next = curr1
-            curr = curr1
-            curr1 = next
         
-        while curr2:
-            next = curr2.next
+        if curr2:
             curr.next = curr2
-            curr = curr2
-            curr2 = next
         
         return dummyNode.next
