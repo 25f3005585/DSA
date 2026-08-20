@@ -13,26 +13,26 @@ class Solution:
 
         while curr1 and curr2:
             if curr1.val <= curr2.val:
-                node = ListNode(curr1.val)
-                curr.next = node
-                curr = node
-                curr1 = curr1.next
+                next = curr1.next
+                curr.next = curr1
+                curr = curr1
+                curr1 = next
             else:
-                node = ListNode(curr2.val)
-                curr.next = node
-                curr = node
-                curr2 = curr2.next
+                next = curr2.next
+                curr.next = curr2
+                curr = curr2
+                curr2 = next
         
         while curr1:
-            node = ListNode(curr1.val)
-            curr.next = node
-            curr = node
-            curr1 = curr1.next
+            next = curr1.next
+            curr.next = curr1
+            curr = curr1
+            curr1 = next
         
         while curr2:
-            node = ListNode(curr2.val)
-            curr.next = node
-            curr = node
-            curr2 = curr2.next
+            next = curr2.next
+            curr.next = curr2
+            curr = curr2
+            curr2 = next
         
         return dummyNode.next
