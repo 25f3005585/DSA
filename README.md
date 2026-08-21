@@ -311,6 +311,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ayushdixit23/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdixit23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushdixit23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -367,6 +368,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0409-longest-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushdixit23/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Quickselect
 |  |
@@ -421,6 +423,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ayushdixit23/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdixit23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Manacher
@@ -489,4 +492,5 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
