@@ -289,6 +289,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0008-string-to-integer-atoi](https://github.com/ayushdixit23/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushdixit23/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushdixit23/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ayushdixit23/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayushdixit23/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayushdixit23/DSA/tree/master/0076-minimum-window-substring) |
@@ -414,6 +415,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ayushdixit23/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -481,4 +483,8 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ayushdixit23/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
