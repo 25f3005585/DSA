@@ -530,5 +530,6 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ayushdixit23/DSA/tree/master/0182-duplicate-emails) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ayushdixit23/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
