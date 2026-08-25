@@ -305,6 +305,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushdixit23/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ayushdixit23/DSA/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/ayushdixit23/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdixit23/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -371,6 +372,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushdixit23/DSA/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/ayushdixit23/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushdixit23/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -427,6 +429,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0020-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/ayushdixit23/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ayushdixit23/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ayushdixit23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdixit23/DSA/tree/master/0503-next-greater-element-ii) |
@@ -508,6 +511,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ayushdixit23/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushdixit23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdixit23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ayushdixit23/DSA/tree/master/0901-online-stock-span) |
