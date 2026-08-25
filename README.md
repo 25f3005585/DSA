@@ -321,6 +321,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdixit23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdixit23/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushdixit23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/ayushdixit23/DSA/tree/master/1768-merge-strings-alternately) |
@@ -379,6 +380,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdixit23/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushdixit23/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Quickselect
 |  |
@@ -442,6 +444,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdixit23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdixit23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdixit23/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Manacher
 |  |
@@ -519,6 +522,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0496-next-greater-element-i](https://github.com/ayushdixit23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdixit23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ayushdixit23/DSA/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdixit23/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
