@@ -88,6 +88,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1991-find-the-middle-index-in-array](https://github.com/ayushdixit23/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ayushdixit23/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushdixit23/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2104-sum-of-subarray-ranges](https://github.com/ayushdixit23/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushdixit23/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayushdixit23/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushdixit23/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -451,6 +452,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdixit23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdixit23/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ayushdixit23/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/ayushdixit23/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Manacher
 |  |
 | ------- |
@@ -531,6 +533,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0901-online-stock-span](https://github.com/ayushdixit23/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushdixit23/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushdixit23/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/ayushdixit23/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
 | ------- |
