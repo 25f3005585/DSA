@@ -424,6 +424,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayushdixit23/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ayushdixit23/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdixit23/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
@@ -442,6 +443,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0085-maximal-rectangle](https://github.com/ayushdixit23/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ayushdixit23/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ayushdixit23/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ayushdixit23/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ayushdixit23/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ayushdixit23/DSA/tree/master/0402-remove-k-digits) |
@@ -466,6 +468,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayushdixit23/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ayushdixit23/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ayushdixit23/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0707-design-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/ayushdixit23/DSA/tree/master/0901-online-stock-span) |
