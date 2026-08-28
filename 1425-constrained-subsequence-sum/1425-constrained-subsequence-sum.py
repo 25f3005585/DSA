@@ -13,8 +13,8 @@ class Solution:
             best_previous = 0
             if q:
                 best_previous = q[0][0]
+                best_previous = max(0, best_previous)
             
-            best_previous = max(0, best_previous)
             current = nums[i] + best_previous
             answer = max(answer, current)
 
