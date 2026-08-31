@@ -581,6 +581,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ayushdixit23/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/ayushdixit23/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/ayushdixit23/DSA/tree/master/1075-project-employees-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayushdixit23/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Ordered Set
 |  |
 | ------- |
