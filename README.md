@@ -82,6 +82,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1539-kth-missing-positive-number](https://github.com/ayushdixit23/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdixit23/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/ayushdixit23/DSA/tree/master/1652-defuse-the-bomb) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ayushdixit23/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/ayushdixit23/DSA/tree/master/1695-maximum-erasure-value) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushdixit23/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushdixit23/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +131,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushdixit23/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushdixit23/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushdixit23/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ayushdixit23/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/ayushdixit23/DSA/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushdixit23/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ayushdixit23/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -197,6 +199,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/ayushdixit23/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushdixit23/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ayushdixit23/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ayushdixit23/DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushdixit23/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushdixit23/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -219,6 +222,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushdixit23/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ayushdixit23/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
