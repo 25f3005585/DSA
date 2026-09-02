@@ -272,6 +272,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ayushdixit23/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ayushdixit23/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ayushdixit23/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -281,6 +282,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0053-maximum-subarray](https://github.com/ayushdixit23/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushdixit23/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ayushdixit23/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit23/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
