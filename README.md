@@ -34,6 +34,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0088-merge-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushdixit23/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushdixit23/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ayushdixit23/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ayushdixit23/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushdixit23/DSA/tree/master/0162-find-peak-element) |
@@ -275,6 +276,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ayushdixit23/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ayushdixit23/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ayushdixit23/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ayushdixit23/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
