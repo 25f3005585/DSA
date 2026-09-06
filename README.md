@@ -28,6 +28,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0073-set-matrix-zeroes](https://github.com/ayushdixit23/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushdixit23/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushdixit23/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ayushdixit23/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushdixit23/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushdixit23/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayushdixit23/DSA/tree/master/0085-maximal-rectangle) |
@@ -280,6 +281,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushdixit23/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ayushdixit23/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayushdixit23/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ayushdixit23/DSA/tree/master/0191-number-of-1-bits) |
@@ -607,4 +609,8 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayushdixit23/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushdixit23/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
