@@ -291,6 +291,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0268-missing-number](https://github.com/ayushdixit23/DSA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ayushdixit23/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/ayushdixit23/DSA/tree/master/2595-number-of-even-and-odd-bits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ayushdixit23/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -367,6 +368,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1903-largest-odd-number-in-string](https://github.com/ayushdixit23/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ayushdixit23/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ayushdixit23/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ayushdixit23/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -615,4 +617,5 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushdixit23/DSA/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ayushdixit23/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
