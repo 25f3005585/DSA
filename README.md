@@ -56,6 +56,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/ayushdixit23/DSA/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ayushdixit23/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ayushdixit23/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ayushdixit23/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/ayushdixit23/DSA/tree/master/0503-next-greater-element-ii) |
@@ -272,6 +273,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0367-valid-perfect-square](https://github.com/ayushdixit23/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushdixit23/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ayushdixit23/DSA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushdixit23/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ayushdixit23/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayushdixit23/DSA/tree/master/0875-koko-eating-bananas) |
@@ -306,6 +308,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0191-number-of-1-bits](https://github.com/ayushdixit23/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushdixit23/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/ayushdixit23/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -386,6 +389,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayushdixit23/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ayushdixit23/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -617,6 +621,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayushdixit23/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Backtracking
 |  |
@@ -627,4 +632,16 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushdixit23/DSA/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ayushdixit23/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
