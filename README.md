@@ -586,6 +586,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0621-task-scheduler](https://github.com/ayushdixit23/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ayushdixit23/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayushdixit23/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/ayushdixit23/DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushdixit23/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -1136,6 +1137,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0669-trim-a-binary-search-tree](https://github.com/ayushdixit23/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/ayushdixit23/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushdixit23/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushdixit23/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
@@ -1250,6 +1252,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ayushdixit23/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushdixit23/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushdixit23/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
@@ -1376,6 +1379,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0207-course-schedule](https://github.com/ayushdixit23/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushdixit23/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ayushdixit23/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit23/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit23/DSA/tree/master/0841-keys-and-rooms) |
@@ -1395,6 +1399,7 @@ My solutions to LeetCode data structures and algorithms problems.
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 ## Topological Sort
 |  |
@@ -1414,4 +1419,8 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayushdixit23/DSA/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
