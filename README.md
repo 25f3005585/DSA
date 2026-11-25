@@ -1163,6 +1163,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ayushdixit23/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushdixit23/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushdixit23/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushdixit23/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ayushdixit23/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -1280,6 +1281,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushdixit23/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ayushdixit23/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushdixit23/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ayushdixit23/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ayushdixit23/DSA/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit23/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1359,6 +1361,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit23/DSA/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushdixit23/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ayushdixit23/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit23/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1401,6 +1404,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit23/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit23/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit23/DSA/tree/master/0841-keys-and-rooms) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushdixit23/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit23/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/ayushdixit23/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
