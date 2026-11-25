@@ -146,6 +146,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [1514-path-with-maximum-probability](https://github.com/ayushdixit23/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/ayushdixit23/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdixit23/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ayushdixit23/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/ayushdixit23/DSA/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ayushdixit23/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -1358,6 +1359,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit23/DSA/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ayushdixit23/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit23/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Pigeonhole Principle
@@ -1401,6 +1403,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0841-keys-and-rooms](https://github.com/ayushdixit23/DSA/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit23/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/ayushdixit23/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushdixit23/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushdixit23/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
@@ -1459,4 +1462,20 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit23/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
