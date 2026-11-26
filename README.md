@@ -103,6 +103,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0704-binary-search](https://github.com/ayushdixit23/DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/ayushdixit23/DSA/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/ayushdixit23/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ayushdixit23/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ayushdixit23/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ayushdixit23/DSA/tree/master/0735-asteroid-collision) |
@@ -220,6 +221,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0692-top-k-frequent-words](https://github.com/ayushdixit23/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/ayushdixit23/DSA/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/ayushdixit23/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/ayushdixit23/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ayushdixit23/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ayushdixit23/DSA/tree/master/0846-hand-of-straights) |
@@ -359,6 +361,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0621-task-scheduler](https://github.com/ayushdixit23/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ayushdixit23/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/ayushdixit23/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ayushdixit23/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ayushdixit23/DSA/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/ayushdixit23/DSA/tree/master/0881-boats-to-save-people) |
@@ -559,6 +562,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0680-valid-palindrome-ii](https://github.com/ayushdixit23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ayushdixit23/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/ayushdixit23/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/ayushdixit23/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ayushdixit23/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/ayushdixit23/DSA/tree/master/0796-rotate-string) |
@@ -1148,6 +1152,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0669-trim-a-binary-search-tree](https://github.com/ayushdixit23/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/ayushdixit23/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushdixit23/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ayushdixit23/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
@@ -1267,6 +1272,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/ayushdixit23/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushdixit23/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ayushdixit23/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ayushdixit23/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
@@ -1361,6 +1367,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0547-number-of-provinces](https://github.com/ayushdixit23/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ayushdixit23/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushdixit23/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit23/DSA/tree/master/1020-number-of-enclaves) |
