@@ -228,6 +228,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/ayushdixit23/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayushdixit23/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit23/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushdixit23/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushdixit23/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1162,6 +1163,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit23/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit23/DSA/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit23/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushdixit23/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit23/DSA/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ayushdixit23/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -1370,6 +1372,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0721-accounts-merge](https://github.com/ayushdixit23/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ayushdixit23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit23/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ayushdixit23/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushdixit23/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushdixit23/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1415,6 +1418,7 @@ My solutions to LeetCode data structures and algorithms problems.
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushdixit23/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ayushdixit23/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushdixit23/DSA/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit23/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushdixit23/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushdixit23/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/ayushdixit23/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -1429,6 +1433,7 @@ My solutions to LeetCode data structures and algorithms problems.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ayushdixit23/DSA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ayushdixit23/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Minimax
 |  |
 | ------- |
